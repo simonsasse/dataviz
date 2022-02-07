@@ -39,6 +39,6 @@ A screencast of our visualization can be found here:
 
 ## Visualization
 Open the visualization:<br>
-1. Download folder <br>
-2. Run app.ipynb
-3. Visit http://127.0.0.1:8050/ in webbrowser to see results 
+1. Clone repository <br>
+2. Run app.ipynb <br>
+3. Visit http://127.0.0.1:8050/ in webbrowser to see results <br>
