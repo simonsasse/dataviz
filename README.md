@@ -2,7 +2,7 @@
 1. `git clone https://github.com/simonsasse/dataviz.git`
 2. `cd dataViz`
 3. `pip install -r requirements.txt`
-4. `python app.py`<- Yes, this takes a while 🐌
+4. `python3 app.py`<- Yes, this takes a while 🐌
 5. Visit `localhost:PORT` in your browser. The `PORT` is specified in the output of the code-snippet above. The Page takes a while to load.
 
 # The impact of HIV on the life expectancy in Africa
