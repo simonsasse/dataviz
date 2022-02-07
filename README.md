@@ -29,5 +29,8 @@ Clicking on a country opens two diagrams underneath the map: a bubble chart and 
 Furthermore, reflect on your result and your learnings. What did not work as expected (and why)? What would you improve if you had more time? If you used other libraries or frameworks other than Altair please explain briefly why. <br>
 Our result shows three different types of visualization. Overall all information, we wanted to show are integrated in our project. Nevertheless, not everything worked as expected. First of all, we would have liked to set the circle size of the bubble chart fixed between the minimum- and maximum-value of the data regarding the death rate. Unfortunatly, this did not work out but the comparison between multiple countries is still possible since the circle size between different countries in one graph is set into the relation. Also we wanted to add a legend for the bubble chart which did not work out as planned so we [...]<br> 
 If we would have had more time, we would have liked to see if different campaigns regarding the education of the society on how to prevent HIV and Aids from spreading had an impact on the rates represented. Unfortunatly, we did not find a suiting data set representing these events. Additionally, we probably would have included the overall incidence and not only the death rates to see the medical development over time.<br>
+For the realisation of this project we used Dash by plotly.
 
 ## Screencast
+A screen cast of our visualisation can be found here:
+[...]
