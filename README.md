@@ -32,5 +32,11 @@ If we would have had more time, we would have liked to see if different campaign
 For the realisation of this project we used Dash by plotly.
 
 ## Screencast
-A screen cast of our visualisation can be found here:
+A screen cast of our visualization can be found here:
 [...]
+
+## Visualization
+Open the visualization:<br>
+1. Download folder <br>
+2. Run app.ipynb
+3. Visit http://127.0.0.1:8050/ in webbrowser to see results 
