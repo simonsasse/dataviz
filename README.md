@@ -37,8 +37,4 @@ A screencast of our visualization can be found here:
 <br>
 [![hiv](https://user-images.githubusercontent.com/93648313/152791310-7a0dacc0-4419-49a2-b4e1-2888a3b777e3.png)](https://youtu.be/y00YpJFRV_I)
 
-## Visualization
-Open the visualization:<br>
-1. Clone repository <br>
-2. Run app.ipynb <br>
-3. Visit http://127.0.0.1:8050/ in webbrowser to see results <br>
+
