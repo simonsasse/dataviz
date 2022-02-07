@@ -25,7 +25,7 @@ import math
 # %%
 # read dataframe (preprocessed in main.ipynb)
 df = pd.read_csv("data/merged_data_clean.csv").drop(columns = "Unnamed: 0")
-# df = df.replace("Eswatini","Swaziland")
+df = df[df["Country"].isin(["Botswana", "Zimbabwe", "South Africa", "Ghana"])]
 #df
 
 # %% [markdown]
