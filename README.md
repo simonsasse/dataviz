@@ -27,13 +27,14 @@ Clicking on a country opens two diagrams underneath the map: a bubble chart and 
 
 ## Reflection
 Furthermore, reflect on your result and your learnings. What did not work as expected (and why)? What would you improve if you had more time? If you used other libraries or frameworks other than Altair please explain briefly why. <br>
-Our result shows three different types of visualization. Overall all information, we wanted to show are integrated in our project. Nevertheless, not everything worked as expected. First of all, we would have liked to set the circle size of the bubble chart fixed between the minimum- and maximum-value of the data regarding the death rate. Unfortunatly, this did not work out but the comparison between multiple countries is still possible since the circle size between different countries in one graph is set into the  right relation. Also we wanted to add a legend for the bubble chart which did not work out as planned so we added an explenation in the desription.<br> 
+Our result shows three different types of visualization. Overall all information, we wanted to show are integrated in our project. Nevertheless, not everything worked as expected. First of all, we would have liked to set the circle size of the bubble chart fixed between the minimum- and maximum-value of the data regarding the death rate. Unfortunatly, this did not work out but the comparison between multiple countries is still possible since the circle size between different countries in one graph is set into the  right relation. Also we wanted to add a legend for the bubble chart which did not work out as planned so we added an explenation in the desription as well as a notation in the diagramm.<br> 
 If we would have had more time, we would have liked to see if different campaigns regarding the education of the society on how to prevent HIV and Aids from spreading had an impact on the rates represented. Unfortunatly, we did not find a suiting data set representing these events. Additionally, we probably would have included the overall incidence and not only the death rates to see the medical development over time.<br>
 For the realisation of this project we used Dash by plotly.
 
 ## Screencast
 A screencast of our visualization can be found here:
 https://drive.google.com/file/d/1wu4RL7bcmtboKv1jjffA4OCXrmz43hXt/view?usp=sharing
+[![Screencast](![hiv](https://user-images.githubusercontent.com/93648313/152790981-a882ce3d-e02b-48c6-ac2f-98037e5d4276.png)](https://youtu.be/y00YpJFRV_I "The impact of HIV on the life expectancy in Africa")
 
 ## Visualization
 Open the visualization:<br>
