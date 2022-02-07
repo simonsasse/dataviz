@@ -33,7 +33,9 @@ For the realisation of this project we used Dash by plotly.
 
 ## Screencast
 A screencast of our visualization can be found here:
-https://youtu.be/y00YpJFRV_I
+<br>
+<br>
+[![hiv](https://user-images.githubusercontent.com/93648313/152791310-7a0dacc0-4419-49a2-b4e1-2888a3b777e3.png)](https://youtu.be/y00YpJFRV_I)
 
 ## Visualization
 Open the visualization:<br>
