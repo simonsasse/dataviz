@@ -1,4 +1,10 @@
-# The impact of HIV on the life expectancy in Africa 
+## Installing and running the app :rocket: 🌐
+1. `git clone https://github.com/simonsasse/dataviz.git`
+2. `cd dataViz`
+3. `pip install -r requirements.txt`
+4. `python app.py`
+5. Visit `localhost:PORT` in your browser. The `PORT` is specified in the output of the code-snippet above.
+# The impact of HIV on the life expectancy in Africa
 Group 7: Simon Sasse, Florian Suhre, Sina Hummerich
 <br><br>
 This visualization was developed within the context of the course "Data Visualization W21/22" at Freie Universität Berlin.
