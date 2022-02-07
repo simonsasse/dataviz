@@ -32,8 +32,8 @@ If we would have had more time, we would have liked to see if different campaign
 For the realisation of this project we used Dash by plotly.
 
 ## Screencast
-A screen cast of our visualization can be found here:
-[...]
+A screencast of our visualization can be found here:
+https://drive.google.com/file/d/1wu4RL7bcmtboKv1jjffA4OCXrmz43hXt/view?usp=sharing
 
 ## Visualization
 Open the visualization:<br>
