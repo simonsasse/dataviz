@@ -33,8 +33,7 @@ For the realisation of this project we used Dash by plotly.
 
 ## Screencast
 A screencast of our visualization can be found here:
-https://drive.google.com/file/d/1wu4RL7bcmtboKv1jjffA4OCXrmz43hXt/view?usp=sharing
-[![Screencast](![hiv](https://user-images.githubusercontent.com/93648313/152790981-a882ce3d-e02b-48c6-ac2f-98037e5d4276.png)](https://youtu.be/y00YpJFRV_I "The impact of HIV on the life expectancy in Africa")
+https://youtu.be/y00YpJFRV_I
 
 ## Visualization
 Open the visualization:<br>
